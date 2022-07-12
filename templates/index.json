@@ -36,6 +36,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/red-wine-pouring-into-a-wine-glass.jpg",
+        "image_2": "shopify:\/\/shop_images\/white-wine-pouring-with-grapes.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
