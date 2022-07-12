@@ -121,17 +121,18 @@
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "656e9cfe-4f93-4818-aa82-0e7c228211b9": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "overstimulation",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "collection-0",
         "product",
-        "collection-1"
+        "656e9cfe-4f93-4818-aa82-0e7c228211b9"
       ],
       "settings": {
         "heading": "Multimedia collage",
